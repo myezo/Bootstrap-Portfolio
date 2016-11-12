@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+	background-image: url('../images/cork-wallet.png');
+}
+
+#nav{
+	border-bottom: 1px solid #949596;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.container{
+	margin-top: 40px;
+	background-color: #ffffff;
+	border: 1px solid #949596;
+	border-radius: .5em;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+h1{
+	font-size: 29px;
+	font-family: 'Tahoma';
+}
+
+#bio-img{
+	width: 170px;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+#button{
+	background-color: #000000;
+	color: #ffffff;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.bio-p{
+	font-size: 20px;
+	padding-left: 10px;
+	color: #777777;
+	margin-bottom: 20px;
+}
+
+#contactbox{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 300px;
+}
+
+#contact{
+	text-align: center;
+	font-family: 'Tahoma';
+}
+
+.panel-body{
+	text-align: center;
+}
+
+#linked, #github, #facebook{
+	width: 75px;
+	height: 75px;
+}
+
+.text-box{
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px;
+}
+
+#footer{
+	background-color: #353535;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+	margin: 50px 0 0 0;
+	color: white;
+	font-size: 13px;
+	color: #b7b7b7;
+	border-top: 1px solid black;
+}
+
